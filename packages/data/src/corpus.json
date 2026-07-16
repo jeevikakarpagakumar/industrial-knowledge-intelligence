@@ -1,0 +1,16 @@
+{
+  "name": "Stratum Knowledge Base",
+  "version": "1.0.0",
+  "topics": [
+    {
+      "id": "topic-1",
+      "title": "Industrial Robotics",
+      "description": "Standard guidelines for collaborative robots and safety zones in smart factories."
+    },
+    {
+      "id": "topic-2",
+      "title": "Predictive Quality",
+      "description": "Using machine learning to analyze raw material variances and optimize process parameters."
+    }
+  ]
+}

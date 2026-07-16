@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot run src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.0.0",
+    "@anthropic-ai/sdk": "^0.18.0",
+    "@stratum/data": "workspace:*"
+  }
+}
