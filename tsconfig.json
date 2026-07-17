@@ -6,6 +6,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "inlineSources": true,
+    "sourceMap": true,
     "isolatedModules": true,
     "moduleResolution": "bundler",
     "module": "esnext",
