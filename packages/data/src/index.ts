@@ -15,4 +15,5 @@ export interface Corpus {
 export const corpus: Corpus = corpusData as Corpus;
 
 export * from "./types";
+export * from "./corpus";
 
