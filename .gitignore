@@ -1,8 +1,5 @@
 # Dependency directories
-node_modules
 node_modules/
-**/node_modules
-**/node_modules/
 jspm_packages/
 web_modules/
 
@@ -77,5 +74,3 @@ coverage/
 .bun/
 bun.lockb
 
-server/node_modules/
-node_modules/
